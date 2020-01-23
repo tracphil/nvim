@@ -14,6 +14,7 @@ Plug 'honza/vim-snippets'
 Plug 'whatyouhide/vim-gotham'
 Plug 'joshdick/onedark.vim'
 Plug 'romainl/flattened' 		" Solarized, without the bullshit.
+Plug 'drewtempelmeyer/palenight.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
@@ -25,10 +26,12 @@ Plug 'vim-scripts/vim-kickstart'
 Plug 'gabrielelana/vim-markdown'
 Plug 'hashivim/vim-packer'
 Plug 'saltstack/salt-vim'
-Plug 'scrooloose/syntastic'
 Plug 'hashivim/vim-vagrant'
 Plug 'stephpy/vim-yaml'
 Plug 'lepture/vim-jinja'
+Plug 'hashivim/vim-terraform'
+Plug 'vim-syntastic/syntastic'
+Plug 'juliosueiras/vim-terraform-completion'
 
 " languages
 Plug 'vim-ruby/vim-ruby'

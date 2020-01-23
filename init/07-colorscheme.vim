@@ -1,4 +1,5 @@
 set background=dark " or light
-colorscheme gotham
+" colorscheme gotham
 " colorscheme onedark
-"colorscheme flattened_dark
+" colorscheme flattened_dark
+colorscheme palenight

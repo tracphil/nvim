@@ -9,3 +9,5 @@ let g:airline#extensions#branch#format = 2 " See documentation
 " Tabline config
 let g:airline#extensions#tabline#enabled = 1 " Enable Tabline integration
 let g:airline#extensions#tabline#buffer_idx_mode = 1 " Leader # navigation
+
+let g:airline_theme = "palenight"
