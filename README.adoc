@@ -5,9 +5,9 @@ This is my https://neovim.io[Neovim] configuration. After switching from `vim` I
 Installing my `neovim` setup on Fedora is pretty straight forward:
 
 ....
-sudo dnf install neovim
+brew install neovim
 mkdir -p $HOME/.config/nvim
-git clone https://github.com/tracphil/neovim $HOME/.config/nvim
+git clone git@github.com:tracphil/nvim.git $HOME/.config/nvim
 nvim $HOME/.config/nvim/init.vim
 ....
 
