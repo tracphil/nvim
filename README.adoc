@@ -15,7 +15,7 @@ I have `neovim` configured in such a way that it will create all of the required
 
 If you want to make any changes to packages that are installed. You will want to use a different editor and edit `$HOME/.config/nvim/init/03-plugins.vim`.
 
-If you have any ideas, questions or concerns, please open a https://github.com/tracphil/neovim/issues[an issue].
+If you have any ideas, questions or concerns, please open a https://github.com/tracphil/nvim/issues[an issue].
 
 Thanks for looking around and I hope to hear from you soon!
 
