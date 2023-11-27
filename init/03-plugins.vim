@@ -7,7 +7,7 @@ Plug 'airblade/vim-gitgutter'
 
 " complete/snippets
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
-Plug 'SirVer/ultisnips'
+" Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 
 " gui
